@@ -1,0 +1,32 @@
+{
+	"name": "@iamnapo/tsconfig",
+	"version": "0.0.0",
+	"description": "TypeScript shareable config for iamnapo’s coding style",
+	"keywords": [
+		"tsconfig",
+		"typescript",
+		"ts",
+		"config",
+		"configuration",
+		"iamnapo",
+		"styleguide"
+	],
+	"homepage": "https://github.com/iamnapo/tsconfig#readme",
+	"bugs": {
+		"url": "https://github.com/iamnapo/tsconfig/issues"
+	},
+	"repository": "github:iamnapo/tsconfig",
+	"license": "MIT",
+	"author": {
+		"name": "Napoleon-Christos Oikonomou",
+		"email": "Napoleonoikon@gmail.com",
+		"url": "https://iamnapo.me"
+	},
+	"main": "tsconfig.json",
+	"files": [
+		"tsconfig.json"
+	],
+	"engines": {
+		"node": ">=12"
+	}
+}
