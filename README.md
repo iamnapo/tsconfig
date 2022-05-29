@@ -14,7 +14,7 @@ Then, add this to your `tsconfig.json`:
 
 ```js
 {
-	"extends": "@iamnapo/tsconfig/tsconfig.json",
+	"extends": "@iamnapo/tsconfig",
 	"compilerOptions": {
 		"outDir": "dist"
 	}
