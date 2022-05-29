@@ -4,7 +4,7 @@
 		"module": "Node16",
 		"target": "ES2021",
 		"lib": ["ES2021", "DOM", "DOM.Iterable"],
-		"moduleResolution": "Node",
+		"moduleResolution": "Node16",
 		"allowSyntheticDefaultImports": true,
 		"resolveJsonModule": false,
 		"jsx": "react",
