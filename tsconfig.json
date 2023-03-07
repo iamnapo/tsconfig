@@ -1,13 +1,13 @@
 {
 	"$schema": "https://json.schemastore.org/tsconfig",
 	"compilerOptions": {
-		"module": "Node16",
-		"target": "ES2021",
-		"lib": ["ES2021", "DOM", "DOM.Iterable"],
+		"module": "NodeNext",
+		"target": "ES2022",
+		"lib": ["ES2022", "DOM", "DOM.Iterable"],
 		"moduleResolution": "Node16",
 		"allowSyntheticDefaultImports": true,
 		"resolveJsonModule": false,
-		"jsx": "react",
+		"jsx": "react-jsx",
 		"declaration": true,
 		"pretty": true,
 		"newLine": "lf",
