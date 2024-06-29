@@ -12,11 +12,8 @@ npm i @iamnapo/tsconfig -D
 
 Then, add this to your `tsconfig.json`:
 
-```js
+```json
 {
-	"extends": "@iamnapo/tsconfig",
-	"compilerOptions": {
-		"outDir": "dist"
-	}
+	"extends": "@iamnapo/tsconfig"
 }
 ```
