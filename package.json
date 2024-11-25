@@ -1,6 +1,6 @@
 {
 	"name": "@iamnapo/tsconfig",
-	"version": "6.0.0",
+	"version": "7.0.0",
 	"description": "TypeScript shareable config for iamnapo’s coding style",
 	"keywords": [
 		"tsconfig",
