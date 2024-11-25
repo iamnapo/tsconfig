@@ -3,8 +3,8 @@
 	"compilerOptions": {
 		"outDir": "${configDir}/distribution",
 		"module": "Node16",
-		"target": "ES2022",
-		"lib": ["ES2023", "DOM", "DOM.Iterable"],
+		"target": "ESNext",
+		"lib": ["ES2024", "DOM", "DOM.Iterable"],
 		"moduleResolution": "Node16",
 		"allowSyntheticDefaultImports": true,
 		"resolveJsonModule": false,
@@ -21,6 +21,7 @@
 		"noFallthroughCasesInSwitch": true,
 		"noUncheckedIndexedAccess": true,
 		"noPropertyAccessFromIndexSignature": true,
+		"noUncheckedSideEffectImports": true,
 		"noEmitOnError": true,
 		"useDefineForClassFields": true,
 		"forceConsistentCasingInFileNames": true,
