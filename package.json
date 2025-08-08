@@ -15,7 +15,10 @@
 	"bugs": {
 		"url": "https://github.com/iamnapo/tsconfig/issues"
 	},
-	"repository": "github:iamnapo/tsconfig",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/iamnapo/tsconfig.git"
+	},
 	"license": "MIT",
 	"author": {
 		"name": "Napoleon-Christos Oikonomou",
@@ -27,7 +30,7 @@
 		"tsconfig.json"
 	],
 	"engines": {
-		"node": ">=22"
+		"node": ">=24"
 	},
 	"publishConfig": {
 		"access": "public",
