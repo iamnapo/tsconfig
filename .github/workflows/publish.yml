@@ -23,8 +23,6 @@ jobs:
 
       - name: 🚀 Release to npm
         run: npm publish
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: ⎔ Setup node
         uses: actions/setup-node@v4
