@@ -58,4 +58,4 @@ typings/
 .env
 
 # Only apps should have lockfiles
-yarn.lock
+pnpm-lock.yaml
